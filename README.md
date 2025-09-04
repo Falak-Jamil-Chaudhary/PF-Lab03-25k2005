@@ -9,6 +9,6 @@ _Italic Statement_
 * C#
 + Java
 ## Languages
-1.Python
-2.SQL
-3.PHP
+1. Python
+2. SQL
+3. PHP
