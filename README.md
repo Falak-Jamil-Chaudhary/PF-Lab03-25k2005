@@ -6,8 +6,8 @@ I have strong interest in programming, particularly in coding and logical proble
 _Italic Statement_
 ## Lists
 -C
--C#
--Java
+*C#
++Java
 ## Languages
 1.Python
 2.SQL
